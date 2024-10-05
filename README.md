@@ -1,6 +1,4 @@
-Here's a refined version of the README for your Algorand CTF challenges:
 
----
 
 # Algorand CTF Challenges
 
